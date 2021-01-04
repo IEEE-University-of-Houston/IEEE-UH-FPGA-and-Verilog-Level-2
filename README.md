@@ -1,1 +1,1 @@
-# FPGA-and-Verilog-Level-2-
+# FPGA and Verilog (Level 2)
